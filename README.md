@@ -89,10 +89,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
    ```
 4. Push the branch and open a pull request.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## 🙌 Acknowledgments
 
 - 🗂️ Titanic dataset provided by [Kaggle](https://www.kaggle.com/competitions/titanic/data).
